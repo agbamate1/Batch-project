@@ -18,12 +18,6 @@ In diesem Projekt wird eine End-to-End-Pipeline für Data Engineering aufgebaut,
 ![System Architecture](https://github.com/agbamate1/Batch-project/blob/master/Dateninfrastrukture_Batch.png)
 
 
-Das Projekt umfasst die folgenden Komponenten:
-
-- **Data Quelle**: Wir haben die Daten aus `www.kaggle.com`, für unser Projekt über den Batch-Prozessor verwendet. 
-- **Python**: Programmierungssprache für Pipeline und Datenschutz
-- **Docker-compose**: Wo werden die verarbeiteten Daten gespeichert.
-
 ## Beschreibung_von_Data
 
 Dieser Datensatz enthält die Daten von über 11.000 Athleten in 47 Disziplinen und 743 Mannschaften, die an den Olympischen Spielen 2021 (2020) in Tokio teilnehmen. Dieser Datensatz enthält die Angaben zu den teilnehmenden Athleten, Trainern und Mannschaften sowie zu den Einträgen nach Geschlecht. Er enthält die Namen, die vertretenen Länder, die Disziplin, das Geschlecht der Teilnehmer und die Namen der Trainer.
@@ -47,7 +41,13 @@ Website der Olympischen Spiele 2020 in Tokio
 
 - Link: https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
+## Technologien
 
+Das Projekt umfasst die folgenden Komponenten:
+
+- **Data Quelle**: Wir haben die Daten aus `www.kaggle.com`, für unser Projekt über den Batch-Prozessor verwendet. 
+- **Python**: Programmierungssprache für Pipeline und Datenschutz
+- **Docker-compose**: Wo werden die verarbeiteten Daten gespeichert.
 
 ## Erste Schritte
 
