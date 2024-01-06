@@ -22,7 +22,7 @@ Das Projekt umfasst die folgenden Komponenten:
 
 - **Data Quelle**: Wir haben die Daten aus `www.kaggle.com`, für unser Projekt über den Batch-Prozessor verwendet. 
 - **Python**: Programmierungssprache für Pipeline und Datenschutz
-- **Docker-Desktop**: Wo werden die verarbeiteten Daten gespeichert?.
+- **Docker-compose**: Wo werden die verarbeiteten Daten gespeichert?.
 
 ## Beschreibung von Data
 
