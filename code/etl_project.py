@@ -18,11 +18,11 @@ data = response.json()
 
 # Liste der URLs der CSV-Dateien auf GitHub
 csv_urls = [
-    'https://raw.githubusercontent.com/agbamate1/AI-Data-Engineering/main/Athletes.csv',
-    'https://raw.githubusercontent.com/agbamate1/AI-Data-Engineering/main/Coaches.csv',
-    'https://raw.githubusercontent.com/agbamate1/AI-Data-Engineering/main/EntriesGender.csv',
-    'https://raw.githubusercontent.com/agbamate1/AI-Data-Engineering/main/Medals.csv',
-    'https://raw.githubusercontent.com/agbamate1/AI-Data-Engineering/main/Teams.csv'
+    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/Athletes.csv',
+    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/Coaches.csv',
+    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/EntriesGender.csv',
+    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/Medals.csv',
+    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/Teams.csv'
     # Ajoutez d'autres URL au besoin
 ]
 
