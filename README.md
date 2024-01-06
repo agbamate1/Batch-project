@@ -28,17 +28,17 @@ Das Projekt umfasst die folgenden Komponenten:
 
 Dieser Datensatz enthält die Daten von über 11.000 Athleten in 47 Disziplinen und 743 Mannschaften, die an den Olympischen Spielen 2021 (2020) in Tokio teilnehmen. Dieser Datensatz enthält die Angaben zu den teilnehmenden Athleten, Trainern und Mannschaften sowie zu den Einträgen nach Geschlecht. Er enthält die Namen, die vertretenen Länder, die Disziplin, das Geschlecht der Teilnehmer und die Namen der Trainer.
 
-- 1-City: - Stadt, in der die Olympischen Spiele stattfanden
-- 2-Year - Jahr, in dem die Olympischen Spiele stattgefunden haben
-- 3-Sport - Sportkategorie (z. B. Wassersport, Leichtathletik usw.)
-- 4-Discipline - Die Disziplin innerhalb der Sportart (z. B. Tauchen, Schwimmen usw.)
-- 5-Event - Name des Ereignisses innerhalb der jeweiligen Disziplin (z. B. 3-m-Sprungbrett, 10-m-Plattform usw.)
-- 6-Athlete - Name des Siegers in dieser Disziplin
-- 7-Gender - Geschlecht
-- 8-Country_Code - 3-stelliger Ländercode
-- 9-Country  - Land, dem der siegreiche Athlet angehört
-- 10-Event_gender - Geschlechter, die an der Veranstaltung teilgenommen haben (männlich, weiblich oder gemeinsame Veranstaltung)
-- 11-Medal  - Medaille (z. B. Bronze, Silber, Gold)
+- 1-City: Stadt, in der die Olympischen Spiele stattfanden
+- 2-Year: Jahr, in dem die Olympischen Spiele stattgefunden haben
+- 3-Sport: Sportkategorie (z. B. Wassersport, Leichtathletik usw.)
+- 4-Discipline: Die Disziplin innerhalb der Sportart (z. B. Tauchen, Schwimmen usw.)
+- 5-Event: Name des Ereignisses innerhalb der jeweiligen Disziplin (z. B. 3-m-Sprungbrett, 10-m-Plattform usw.)
+- 6-Athlete: Name des Siegers in dieser Disziplin
+- 7-Gender: Geschlecht
+- 8-Country_Code: 3-stelliger Ländercode
+- 9-Country: Land, dem der siegreiche Athlet angehört
+- 10-Event_gender: Geschlechter, die an der Veranstaltung teilgenommen haben (männlich, weiblich oder gemeinsame Veranstaltung)
+- 11-Medal: Medaille (z. B. Bronze, Silber, Gold)
 
 
 ## Quelle
