@@ -15,7 +15,7 @@ In diesem Projekt wird eine End-to-End-Pipeline für Data Engineering aufgebaut,
 
 ## Dateninfrastrukture
 
-![System Architecture](https://github.com/agbamate1/Batch-project.git/Dateninfrastrukture_Batch.png)
+![System Architecture](https://github.com/agbamate1/Batch-project/blob/master/Dateninfrastrukture_Batch.png)
 
 
 Das Projekt umfasst die folgenden Komponenten:
