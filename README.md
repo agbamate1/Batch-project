@@ -24,7 +24,7 @@ Das Projekt umfasst die folgenden Komponenten:
 - **Python**: Programmierungssprache für Pipeline und Datenschutz
 - **Docker-compose**: Wo werden die verarbeiteten Daten gespeichert.
 
-## Beschreibung von Data
+## Beschreibung_von_Data
 
 Dieser Datensatz enthält die Daten von über 11.000 Athleten in 47 Disziplinen und 743 Mannschaften, die an den Olympischen Spielen 2021 (2020) in Tokio teilnehmen. Dieser Datensatz enthält die Angaben zu den teilnehmenden Athleten, Trainern und Mannschaften sowie zu den Einträgen nach Geschlecht. Er enthält die Namen, die vertretenen Länder, die Disziplin, das Geschlecht der Teilnehmer und die Namen der Trainer.
 
