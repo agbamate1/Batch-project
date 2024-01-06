@@ -10,7 +10,7 @@
 
 ## Einleitung
 
-In diesem Projekt wird eine End-to-End-Pipeline für Data Engineering aufgebaut, die auf einem Batch-Prozess basiert. Sie deckt alle Schritte von der Datenaufnahme über die Verarbeitung bis hin zur Speicherung ab und nutzt einen robusten Technologie-Stack, der Python und Dockerfile umfasst. Alles wird mithilfe von Docker containerisiert, um den Einsatz und die Skalierbarkeit zu erleichtern.
+In diesem Projekt wird eine End-to-End-Pipeline für Data Engineering aufgebaut, die auf einem Batch-Prozess basiert. Sie deckt alle Schritte von der Datenaufnahme über die Verarbeitung bis hin zur Speicherung ab und nutzt einen robusten Technologie-Stack, der Python und Docker-compose umfasst. Alles wird mithilfe von Docker containerisiert, um den Einsatz und die Skalierbarkeit zu erleichtern.
 
 
 ## Dateninfrastrukture
