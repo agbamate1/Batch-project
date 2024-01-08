@@ -54,7 +54,7 @@ Das Projekt umfasst die folgenden Komponenten:
 1. Klonen Sie das Repository:
 
     ```bash
-    git clone https://github.com/agbamate1/Batch-project.git
+    git clone -b master https://github.com/agbamate1/Batch-project.git
     ```
 
 2. Navigieren Sie zum Projektverzeichnis:
