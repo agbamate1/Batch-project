@@ -59,8 +59,7 @@ Das Projekt umfasst die folgenden Komponenten:
 
 2. Navigieren Sie zum Projektverzeichnis:
     ```bash
-    cd Batch-project
-    cd code
+    cd Batch-project/code
     ```
 
 3. Führen Sie Dockerfile aus, um die Dienste einzurichten:
