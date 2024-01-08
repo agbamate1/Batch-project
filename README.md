@@ -2,7 +2,7 @@
 
 ## Inhaltsübersicht
 - [Einleitung](#Einleitung)
-- [Dateninfrastrukture](#Dateninfrastrukture)
+- [Dateninfrastruktur](#Dateninfrastruktur)
 - [Beschreibung von Data](#Beschreibung_von_Data)
 - [Quelle](#Quelle)
 - [Technologien](#Technologien)
@@ -13,9 +13,9 @@
 In diesem Projekt wird eine End-to-End-Pipeline für Data Engineering aufgebaut, die auf einem Batch-Prozess basiert. Sie deckt alle Schritte von der Datenaufnahme über die Verarbeitung bis hin zur Speicherung ab und nutzt einen robusten Technologie-Stack, der Python und Docker-compose umfasst. Alles wird mithilfe von Docker containerisiert, um den Einsatz und die Skalierbarkeit zu erleichtern.
 
 
-## Dateninfrastrukture
+## Dateninfrastruktur
 
-![System Architecture](https://github.com/agbamate1/Batch-project/blob/master/Dateninfrastrukture_Batch.png)
+![System Architecture](https://github.com/agbamate1/Batch-project/blob/master/Dateninfrastruktur_Batch_.png)
 
 
 ## Beschreibung_von_Data
