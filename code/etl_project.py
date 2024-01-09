@@ -131,9 +131,9 @@ coaches_by_event = Coaches['Event'].value_counts()
 
 # Zeichnen Sie ein Balkendiagramm, um die Anzahl der Vorkommen pro Ereignis zu visualisieren.
 coaches_by_event.plot(kind='bar', figsize=(15, 8))
-plt.title('Nombre d\'entraîneurs par événement')
-plt.xlabel('Événement')
-plt.ylabel('Nombre d\'entraîneurs')
+plt.title('Anzahl von Trainer pro Veranstaltung')
+plt.xlabel('Veranstaltung')
+plt.ylabel('Anzahl von Trainer')
 plt.show()
 
 #############################################EntriesGender#############################################
