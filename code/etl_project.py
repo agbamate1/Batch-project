@@ -55,7 +55,7 @@ if 'Athletes.csv' in data_frames:
 nouveaux_noms = {'Name': 'PersonName', 'NOC': 'Country'}
 Athletes.rename(columns=nouveaux_noms, inplace=True)
 
-Athletes.head(5)
+print(Athletes.head(5))
 
 # Erstellen Sie eine Pivot-Tabelle, um die Anzahl der Personen pro Land in jeder Disziplin zu zählen.
 pivot_table = pd.pivot_table(Athletes, index=['Country'], columns=['Discipline'], values=['PersonName'], aggfunc='count', fill_value=0)
